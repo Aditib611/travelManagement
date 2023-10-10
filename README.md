@@ -1,4 +1,4 @@
-Travel Management System
+<h1>Travel Management System</h1>
 Explore our Fantastic Travel Management System repository, a powerful web application built with HTML, CSS, Bootstrap, PHP, MySQL, PHPMyAdmin, and XAMPP. Experience a user-friendly interface, dynamic content, booking system, and admin panel. It's your one-stop solution for travel management. 
 
 **Key Features**:
